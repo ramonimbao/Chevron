@@ -37,6 +37,10 @@ There are three folders: `bottom`, `main-pcb`, `plate`. Inside each of them are 
 
 The clear cover for the components is in the `misc` folder. There's also a foot you can laser cut to be used with the bottom. Needs M2 brass standoffs or screws to use.
 
+## Firmware
+
+https://github.com/qmk/qmk_firmware/tree/master/keyboards/rmi_kb/chevron
+
 ## Notes
 
 High profile case files (seen in the photo) are not provided.
