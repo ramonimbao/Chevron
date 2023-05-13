@@ -8,6 +8,10 @@
 
 Photo by bep#7432.
 
+## Supported Layouts
+
+![](misc/keyboard-layout.png)
+
 ## Partslist
  |Count|Part|
  |-|-|
