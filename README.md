@@ -29,7 +29,7 @@ Photo by bep#7432.
  |2|5.1 kΩ resistor|
  |2|3.6 V zener diode|
  |53|universal switching diode|
- |1|EC11 encoder and knob|
+ |1|EC11 encoder and knob (optional)|
 
 ## Files
 
